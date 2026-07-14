@@ -87,17 +87,7 @@ Turn documents into natural-sounding podcasts with AI.
 
 Upload a PDF and chat with it using RAG and vector search.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bikaxh01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikaxh01&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## ☕ Current Status
 
