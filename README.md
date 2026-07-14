@@ -9,7 +9,7 @@
 <p>
   <a href="mailto:mishrabikash202@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/contact-bikash/">LinkedIn</a> •
-  <a href="https://bikaxh.space">Portfolio</a>
+  <a href="https://bikaxh01.github.io/">Portfolio</a>
 </p>
 
 </div>
